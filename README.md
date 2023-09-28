@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://garvitkala.github.io/" alt="Portfolio" />  </a>
     
 <h1 align="center">Hi 👋, I'm Garvit Kala</h1>
-<h3 align="center">A passionate backend java developer from Bangalore ,India</h3>
+<h3 align="center">A passionate backend java developer from Bangalore, Karnataka ,India</h3>
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
 
@@ -37,8 +37,8 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvitkala&show_icons=true&locale=en&layout=compact" alt="Garvitkala" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitkala&show_icons=true&locale=en&layout=compact" alt="Garvitkala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitkala&show_icons=true&locale=en" alt="Garvitkala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitkala&" alt="garvitkala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitkala&" alt="Garvitkala" /></p>
