@@ -1,6 +1,6 @@
- ## [About Me](https://Garvitkala.github.io/) :
-  <a href="https://Garvitkala.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://Garvitkala.github.io/" alt="Portfolio" />  </a>
+ ## [About Me](https://garvitkala.github.io/) :
+  <a href="https://garvitkala.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://garvitkala.github.io/" alt="Portfolio" />  </a>
     
 <h1 align="center">Hi 👋, I'm Garvit Kala</h1>
 <h3 align="center">A passionate backend java developer from Bangalore ,India</h3>
