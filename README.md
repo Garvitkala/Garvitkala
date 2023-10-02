@@ -1,4 +1,4 @@
-**[About Me](https://garvitkala.github.io/) :
+[About Me](https://garvitkala.github.io/) :
   <a href="https://garvitkala.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://garvitkala.github.io/" alt="Portfolio" />  </a>
     
