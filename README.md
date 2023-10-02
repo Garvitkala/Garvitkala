@@ -1,13 +1,12 @@
-## [About Me](https://garvitkala.github.io/) :
-  <a href="https://garvitkala.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&link=https://garvitkala.github.io/" alt="Portfolio" />  </a>
+## About Me:
+  
     
 <h1 align="center">Hi 👋, I'm Garvit Kala</h1>
 <h3 align="center">A passionate backend java developer from Karnataka , India</h3>
 
 ## Portfolio Link
 
-You can check out my portfolio [here](https://garvitkala.github.io/).
+🌎 Portfolio - <a href="https://garvitkala.github.io/" target="_blank">garvitkala.github.io/</a>
 
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
