@@ -4,11 +4,9 @@
     
 <h1 align="center">Hi 👋, I'm Garvit Kala</h1>
 <h3 align="center">A passionate backend java developer from Karnataka , India</h3>
+ Here is my [Portfolio](https://garvitkala.github.io/)
 
 
-## Portfolio Link
-
-🌎 Portfolio - <a href="https://garvitkala.github.io/" target="_blank">garvitkala.github.io/</a>
 
 
 - 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
