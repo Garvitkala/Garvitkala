@@ -3,7 +3,7 @@
   
     
 <h1 align="center">Hi 👋, I'm Garvit Kala</h1>
-<h3 align="center">A passionate backend java developer from Karnataka , India</h3>
+<h3 align="center">An aspiring Backend JAVA Developer from Karnataka , India</h3>
 
 
   <a href="https://garvitkala.github.io/" id="Portfolio-Link" class="Portfolio-Link"> Portfolio Link </a>
