@@ -8,11 +8,15 @@
 
   <a href="https://garvitkala.github.io/" id="Portfolio-Link" class="Portfolio-Link"> Portfolio Link </a>
 
+A self-motivated, hard-working, and ambitious individual who has recently acquired proficiency in full-stack web development, with a focus on Java, JavaScript, HTML, CSS, and SQL. With a strong foundation in these technologies, possesses the skills necessary for both front-end and back-end development, as well as database management. Excited about the opportunity to contribute knowledge and collaborate with a dynamic team in a tech company, leveraging my expertise in full-stack development.
 
 
 
+- 🌱 Skilled in **HTML,CSS,JavaScript**
+- 🌱 Can use **SQL Queries**
+- 🌱 Able to develop JAVA Project using **SPRING BOOT**
 
-- 🌱 I’m skilled in **HTML,CSS,Javascript ,Java ,Spring ,Mysql**
+
 
 <h2 align="center">
  Let's Get Connected
